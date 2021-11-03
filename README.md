@@ -2,7 +2,7 @@
 <a href="https://www.linkedin.com/in/barredo-david/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 <p aling="left"><samp>
-Bonjour, je m'appelle Davi Barredo et je suis étudiant à l'EPITECH Montpellier en Pré-MSc. Je suis passionné par la programmation et l'informatique. Je suis curieux, rigoureux et impatient d'apprendre de nouvelles choses.
+Bonjour, je m'appelle David Barredo et je suis étudiant à l'EPITECH Montpellier en Pré-MSc. Je suis passionné par la programmation et l'informatique. Je suis curieux, rigoureux et impatient d'apprendre de nouvelles choses.
 </samp></p>
 
 ### Skills
