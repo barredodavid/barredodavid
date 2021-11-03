@@ -8,11 +8,10 @@ Bonjour, je m'appelle Davi Barredo et je suis étudiant à l'EPITECH Montpellier
 ### Skills
 
 <img align="left" alt="C++" width="23px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/612px-ISO_C%2B%2B_Logo.svg.png" />
-<img align="left" alt="HTML" width="23px" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" />
+<img align="left" alt="HTML" width="23px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" />
 <img align="left" alt="CSS" width="23px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/css3.svg" />
 <img align="left" alt="GitHub" width="23px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/github.svg" />
 <img align="left" alt="MySQL" width="23px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/mysql.svg" />
 <img align="left" alt="Linux" width="23px" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" />
-<img align="left" alt="Apple" width="23px" src="https://www.vectorlogo.zone/logos/apple/apple-icon.svg" />
 <br>
 <br>
