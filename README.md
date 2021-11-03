@@ -2,10 +2,10 @@
 <a href="https://www.linkedin.com/in/barredo-david/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 <p aling="left"><samp>
-Hi, 
+Bonjour, je m'appelle Davi Barredo et je suis étudiant à l'EPITECH Montpellier en Pré-MSc. Je suis passionné par la programmation et l'informatique. Je suis curieux, rigoureux et impatient d'apprendre de nouvelles choses.
 </samp></p>
 
-### Skills 🧑🏾‍💻
+### Skills
 
 <img align="left" alt="C++" width="23px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/612px-ISO_C%2B%2B_Logo.svg.png" />
 <img align="left" alt="HTML" width="23px" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" />
